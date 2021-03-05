@@ -1,14 +1,7 @@
 # Hello 👋
 
 I'm Kittenz or Roni, if you prefer to use my real name. I'm a programmer and Roblox game developer.
-I can use various different programming languages—mainly JS/TS, C#, and Roblox Lua. I use Next as my primary web framework.
-
-# Interests
-Here are some of my intrests:
-- Gaming and game development;
-- Web development;
-- Open-source software; and,
-- Linux and Linux gaming.
+I can use various different programming languages—mainly JS/TS, Dart, C#, and Roblox Lua. I use Next as my primary JavaScript web framework.
 
 # Contact
 Feel free to reach me via email: [kitten@kittenz.dev](mailto:kitten@kittenz.dev).
