@@ -1,6 +1,5 @@
-# Hello 👋
-
-I'm Kittenz or Roni, if you prefer to use my real name. I'm a programmer and Roblox game developer.
+# Here are some stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenz)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact
 Feel free to reach me via email: [kitten@kittenz.dev](mailto:kitten@kittenz.dev).
