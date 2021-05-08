@@ -1,6 +1,18 @@
 # Here are some stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenz)](https://github.com/anuraghazra/github-readme-stats)
 
+# Languages and tools
+<!-- Linux --> <a href="https://kernel.org"><img width="40" height="40" src="https://www.kernel.org/theme/images/logos/tux.png" alt="Linux"></img></a>
+<!-- TypeScript --> <a href="https://typescriptlang.org"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript"></img></a>
+<!-- Node.js --> <a href="https://nodejs.org/en/"><img width="80" height="40" src="https://nodejs.org/static/images/logo.svg" alt="Node.js"></img></a>
+<!-- Lua --> <a href="https://lua.org"><img width="40" height="40" src="https://www.lua.org/images/luaa.gif" alt="Lua"></img></a>
+<!-- Roblox --> <a href="https://roblox.com"><img width="40" height="40" src="https://pbs.twimg.com/profile_images/1359616555198287872/tJebZijE_200x200.png" alt="Roblox"></img></a>
+<!-- VS Code --> <a href="https://code.visualstudio.com"><img width="40" height="40" src="https://code.visualstudio.com/apple-touch-icon.png" alt="VS Code"></img></a>
+<!-- Rojo --> <a href="https://github.com/rojo-rbx/rojo"><img width="80" height="40" src="https://raw.githubusercontent.com/rojo-rbx/rojo/master/assets/logo-512.png" alt="Rojo"></img></a>
+<!-- C++ --> <a href="https://isocpp.org"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></img></a>
+<!-- C# --> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/150px-C_Sharp_wordmark.svg.png" alt="C#"></img></a>
+<!-- React --> <a href="https://reactjs.org/"><img width="60" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="React"></img></a>
+
 # Contact
 Feel free to reach me via email: [kitten@kittenz.dev](mailto:kitten@kittenz.dev).
 
